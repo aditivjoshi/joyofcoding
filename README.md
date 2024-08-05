@@ -1,1 +1,3 @@
-# joyofcodingS2
+# Joy of Coding
+
+simple C programs
