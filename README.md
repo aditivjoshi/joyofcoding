@@ -1,3 +1,3 @@
 # Joy of Coding
 
-simple C programs
+simple C and C++ programs
